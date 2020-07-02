@@ -1,5 +1,5 @@
 # Khan-Academy-Imager
-Used to convert images into copy/paste code usable on Khan Academy.
+Used to convert images into a format usable on Khan Academy.
 
 The images must follow the guidlines of KA.
 
